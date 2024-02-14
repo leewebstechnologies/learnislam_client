@@ -7,7 +7,7 @@ const Home = () => {
       id: 1,
       title: "What is Aqeedah",
       description:
-        "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
+        "In the name of Allah, the Gracious, the Merciful, from whom we seek help. All praise is due to Allah, the Lord of the worlds. هذا ذكر بيان عقيدة أهل السنة والجماعة على مذهب فقهاء الملة أبي حنيفة النعمان بن ثابت الكوفي وأبي يوسف يعقوب بن إبراهيم الأنصاري وأبي عبدالله محمد بن الحسن الشيباني رضوان الله عليهم أجمعين وما يعتقدون من أصول الدين ويدينون به رب العالمين‏",
       image:
         "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXNsYW18ZW58MHx8MHx8fDA%3D",
     },

@@ -8,12 +8,12 @@
   font-family: "Titillium Web", sans-serif;
 }
 
-$lightGreen: #b9e7e7;
+$lightGreen: #f5f5dc;
 $mainColor: #1d5813;
 $textColor: #eee;
 
 .navbar {
-  background-color: beige;
+  background-color: $lightGreen;
   display: flex;
   align-items: center;
   height: 50px;
@@ -60,8 +60,6 @@ $textColor: #eee;
       gap: 20px;
 
       .link {
-        // margin: 0 2rem;
-        // color: black;
         &:hover {
           color: $mainColor;
         }
@@ -109,7 +107,7 @@ $textColor: #eee;
       align-items: center;
       justify-content: center;
       gap: 1.5rem;
-      background-color: beige;
+      background-color: $lightGreen;
       transition: 1s;
       transform: translateY(-100vh);
     }

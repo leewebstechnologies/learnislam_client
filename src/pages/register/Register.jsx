@@ -1,21 +1,22 @@
-import React from "react";
+import "./register.scss";
 import { Link } from "react-router-dom";
 
-const Login = () => {
+const Register = () => {
   return (
     <div className="auth">
-      <h1>Login</h1>
+      <h1>Register</h1>
       <form action="">
         <input required type="text" placeholder="Username" />
+        <input required type="email" placeholder="Email" />
         <input required type="password" placeholder="Password" />
-        <button>Login</button>
+        <button>Register</button>
         <p>This is an error!</p>
         <span>
-          Don't you have an account? <Link to="/register">Register</Link>
+          Do you have an account? <Link to="/login">Login</Link>
         </span>
       </form>
     </div>
   );
 };
 
-export default Login;
+export default Register;

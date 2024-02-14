@@ -1,12 +1,14 @@
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
-import Navbar from "./components/Navbar";
+
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Single from "./pages/Single";
 import Write from "./pages/Write";
 import "./style.scss";
+import Navbar from "./components/navbar/Navbar";
+// import "./components/navbar/navbar.scss";
 
 const Layout = () => {
   return (

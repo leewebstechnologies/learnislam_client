@@ -3,8 +3,8 @@ $mainColor: #1d5813;
 
 .home {
   .posts {
-    margin: 0 40px;
-    margin-top: 50px;
+    margin: 50px 0 40px 40px;
+    // margin-top: 50px;
     display: flex;
     flex-direction: column;
     gap: 150px;
@@ -12,6 +12,7 @@ $mainColor: #1d5813;
     .post {
       display: flex;
       gap: 100px;
+      margin-right: 40px;
 
       &:nth-child(2n + 1) {
         flex-direction: row-reverse;
@@ -40,7 +41,7 @@ $mainColor: #1d5813;
         flex: 3;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        // justify-content: space-between;
 
         h1 {
           font-size: 48px;

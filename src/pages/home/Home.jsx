@@ -7,40 +7,39 @@ const Home = () => {
       id: 1,
       title: "What is Aqeedah",
       description:
-        // eslint-disable-next-line
-        "In the name of Allah, the Gracious, the Merciful, from whom we seek help. All praise is due to Allah, the Lord of the worlds. هذا ذكر بيان عقيدة أهل السنة والجماعة على مذهب فقهاء الملة أبي حنيفة النعمان بن ثابت الكوفي وأبي يوسف يعقوب بن إبراهيم الأنصاري وأبي عبدالله محمد بن الحسن الشيباني رضوان الله علمعين وما يعتقدون من أصول الدين ويدينون به رب العالمين‏",
+        "This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds. This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds.",
       image:
-        "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1597505495109-7fc35bb64d8e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 2,
       title: "What is Arabic",
       description:
-        "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
+        "This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds. This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds.",
       image:
-        "https://plus.unsplash.com/premium_photo-1677699248111-8aa3c0f6945b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1580418827493-f2b22c0a76cb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 3,
       title: "What is Hadith",
       description:
-        "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
+        "This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds. This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds.",
       image:
-        "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1590075865003-e48277faa558?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGlzbGFtfGVufDB8fDB8fHww",
     },
     {
       id: 4,
       title: "What is Tafseer",
       description:
-        "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
+        "This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds. This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds.",
       image:
-        "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1596163177973-aa0e47c735dc?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 5,
       title: "What is Etiquette",
       description:
-        "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
+        "This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds. This is a clear presentation of the creed of Ahl al-Sunnah wal Jama’ah, according to the doctrine of the jurists of the religion, Abu Hanifah al-Nu’man ibn Thabit al-Kufi, Abu Yusuf Ya’qub ibn Ibrahim al-Ansari and Abu Abdullah Muhammad ibn al-Hasan al-Shaybani, may Allah be pleased with them all, and what they believe regarding the fundamentals of the religion and their faith in the Lord of the worlds.",
       image:
         "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
     },

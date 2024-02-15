@@ -3,6 +3,7 @@ import Blogger from "../../images/blogger.png";
 import Edit from "../../images/edit.png";
 import Delete from "../../images/delete.png";
 import { Link } from "react-router-dom";
+import Menu from "../../components/menu/Menu";
 
 const Single = () => {
   // eslint-disable-next-line
@@ -75,7 +76,7 @@ const Single = () => {
           </p>
         </p>
       </div>
-      <div className="menu">m</div>
+      <Menu />
     </div>
   );
 };

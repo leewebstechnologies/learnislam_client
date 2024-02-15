@@ -1,8 +1,9 @@
-$lightGreen: #f5f5dc;
+$lightGreen: #b9f5a7;
 $mainColor: #1d5813;
 
 .home {
   .posts {
+    margin: 0 40px;
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -52,8 +53,15 @@ $mainColor: #1d5813;
           padding: 10px 20px;
           border: none;
           cursor: pointer;
-          background-color: $lightGreen;
+          background-color: #fff;
           border: 1px solid $mainColor;
+          color: $mainColor;
+
+          &:hover {
+            border: 1px solid #fff;
+            background-color: $lightGreen;
+            color: #000;
+          }
         }
       }
     }

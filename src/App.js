@@ -8,7 +8,6 @@ import Single from "./pages/single/Single";
 import Write from "./pages/write/Write";
 import "./style.scss";
 import Navbar from "./components/navbar/Navbar";
-// import "./components/navbar/navbar.scss";
 
 const Layout = () => {
   return (

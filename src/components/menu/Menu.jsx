@@ -8,7 +8,7 @@ const Menu = () => {
       description:
         "In the name of Allah, the Gracious, the Merciful, from whom we seek help. All praise is due to Allah, the Lord of the worlds. هذا ذكر بيان عقيدة أهل السنة والجماعة على مذهب فقهاء الملة أبي حنيفة النعمان بن ثابت الكوفي وأبي يوسف يعقوب بن إبراهيم الأنصاري وأبي عبدالله محمد بن الحسن الشيباني رضوان الله علمعين وما يعتقدون من أصول الدين ويدينون به رب العالمين‏",
       image:
-        "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1694734479942-8cc7f4660578?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ const Menu = () => {
       description:
         "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
       image:
-        "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1702744473287-4cc284e97206?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 4,
@@ -32,7 +32,7 @@ const Menu = () => {
       description:
         "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
       image:
-        "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1707129900844-484443dd3534?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 5,
@@ -40,7 +40,7 @@ const Menu = () => {
       description:
         "To add emojis to your code, you can use Unicode characters or libraries that offer pre-built emoji character sets. In JavaScript, you can use Unicode characters by inserting the character set within quotes directly into your string.",
       image:
-        "https://images.unsplash.com/photo-1519818187420-8e49de7adeef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXNsYW18ZW58MHx8MHx8fDA%3D",
+        "https://sanjeevdatta.com/wp-content/uploads/2022/02/10-social-etiquette-rules-for-social-intelligence.jpg",
     },
   ];
   return (
